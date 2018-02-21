@@ -67,11 +67,11 @@ To view debug output, set the `SENTINEL_DEBUG` environment variable to anything 
 
 ## Contributing
 
-Please follow the [SucrCore guidelines for contributing](https://github.com/sucremoneda/sucr/blob/v0.12.1.x/CONTRIBUTING.md).
+Please follow the [SucrCore guidelines for contributing](https://github.com/sucremoneda/SucreCore/blob/master/CONTRIBUTING.md).
 
 Specifically:
 
-* [Contributor Workflow](https://github.com/sucremoneda/sucr/blob/v0.12.1.x/CONTRIBUTING.md#contributor-workflow)
+* [Contributor Workflow](https://github.com/sucremoneda/SucreCore/blob/master/CONTRIBUTING.md#contributor-workflow)
 
     To contribute a patch, the workflow is as follows:
 
