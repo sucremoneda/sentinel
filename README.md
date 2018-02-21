@@ -2,7 +2,7 @@
 
 An all-powerful toolset for Sucr.
 
-[![Build Status](https://travis-ci.org/sucrpay/sentinel.svg?branch=master)](https://travis-ci.org/sucrpay/sentinel)
+[![Build Status](https://travis-ci.org/sucremoneda/sentinel.svg?branch=master)](https://travis-ci.org/sucremoneda/sentinel)
 
 Sentinel is an autonomous agent for persisting, processing and automating Sucr V12.1 governance objects and tasks, and for expanded functions in the upcoming Sucr V13 release (Evolution).
 
@@ -31,7 +31,7 @@ Make sure the local Sucr daemon running is at least version 12.1 (120100)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/sucrpay/sentinel.git && cd sentinel
+    $ git clone https://github.com/sucremoneda/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
@@ -67,11 +67,11 @@ To view debug output, set the `SENTINEL_DEBUG` environment variable to anything 
 
 ## Contributing
 
-Please follow the [SucrCore guidelines for contributing](https://github.com/sucrpay/sucr/blob/v0.12.1.x/CONTRIBUTING.md).
+Please follow the [SucrCore guidelines for contributing](https://github.com/sucremoneda/sucr/blob/v0.12.1.x/CONTRIBUTING.md).
 
 Specifically:
 
-* [Contributor Workflow](https://github.com/sucrpay/sucr/blob/v0.12.1.x/CONTRIBUTING.md#contributor-workflow)
+* [Contributor Workflow](https://github.com/sucremoneda/sucr/blob/v0.12.1.x/CONTRIBUTING.md#contributor-workflow)
 
     To contribute a patch, the workflow is as follows:
 
